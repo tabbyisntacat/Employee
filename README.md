@@ -1,2 +1,6 @@
-# Users.py
-Add users Check user amoount and check users 
+``**Employees.Py**``
+
+
+`Add users, with First Name Last Name Age and rank`
+`Check Employees`
+`Get Employee amount`
